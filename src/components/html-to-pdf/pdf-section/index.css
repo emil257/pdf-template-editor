@@ -1,0 +1,10 @@
+*{
+  box-sizing: border-box;
+}
+.section{
+  width: 100%;
+  border: 2px solid rgb(138, 138, 138);
+}
+.selected{
+  border: 2px solid rgb(0, 255, 0);
+}
